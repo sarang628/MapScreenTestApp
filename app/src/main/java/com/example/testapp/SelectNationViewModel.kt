@@ -8,6 +8,7 @@ import com.example.torang_core.data.NationItem
 import com.example.torang_core.data.NationLocation
 import com.example.torang_core.data.model.Filter
 import com.example.torang_core.data.model.RestaurantData
+import com.example.torang_core.data.model.SearchType
 import com.example.torang_core.repository.NationRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.delay
@@ -38,11 +39,7 @@ class SelectNationViewModel @Inject constructor(val nationRepository: NationRepo
             delay(7000)
             try {
                 val filter = Filter().apply {
-                    searchType = Filter.SearchType.BOUND
-                    north = longitudeNorthWest
-                    east = latitudeNorthWest
-                    south = longitudeSouthEast
-                    west = latitudeSouthEast
+                    searchType = SearchType.BOUND
                 }
                 _restaurants.postValue(nationRepository.getFilterRestaurant(filter))
 
