@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.iml" filepath="$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Map/Map.TestApp.screen_map.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/TorangRepository/Repository.TestApp.TorangRepository.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangCore/torang_core/TorangCore.TestApp.torang_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TorangLocationService/TorangLocationService/TorangLocationService.TestApp.TorangLocationService.unitTest.iml" />
+    </modules>
+  </component>
+</project>
